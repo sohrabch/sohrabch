@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Security / Ethical Hacking / . . .
 - 📫 How to reach me Sohrabchalish@gmail.com
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6559331868ca6026134c424e?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6559331868ca6026134c424e?variant=dark" alt="roadmap.sh"/></a>
